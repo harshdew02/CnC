@@ -8,4 +8,4 @@ def blogpost(request):
     return render(request , 'main/blogpost.html')
 
 def contact(request):
-    return render(request , 'main/contact.html')
+    return render(request , 'main/contact.html') 
